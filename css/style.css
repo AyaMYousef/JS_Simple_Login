@@ -1,0 +1,30 @@
+:root {
+    --darkgray: #738182;
+    --lightgray: #999999;
+    --darkblack: #343434;
+    --vlightgray: #f4f4f4;
+    --bg-gray: #F7F7F7;
+    --gray: #5B5B5B;
+}
+
+
+@font-face {
+    font-family: "Montserrat";
+    src: url('../fonts/Montserrat-VariableFont_wght.ttf');
+}
+
+body {
+    font-family: "Montserrat";
+    background-color: #24353F;
+}
+
+
+header {
+    background-color: #24353F;
+}
+
+
+h1 {
+    color: #14A2B8;
+}
+
